@@ -1,0 +1,10 @@
+kaiwudrl/
+train/backup_model/
+train/log/
+**/__pycache__/
+*.pyc
+*.log
+*.zip
+*.json
+.env
+.vscode/
